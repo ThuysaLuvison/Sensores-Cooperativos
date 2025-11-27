@@ -2,4 +2,4 @@
 
 Bem vindo(a) ao *Sensores cooperativos*!
 
-Atividade meramente para aprendizagem.
+Atividade academica meramente para aprendizagem.
